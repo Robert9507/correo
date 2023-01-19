@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Mail\ConctactMailable;
 use Illuminate\Support\Facades\Mail;
-
+//hptt
 class ContactanosController extends Controller
 {
     // metodo para mostrar el formulario
